@@ -18,7 +18,6 @@ const Header = () => {
                 </Container>
             </Navbar>
 
-            <br />
         </>
     );
 };

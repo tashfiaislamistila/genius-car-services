@@ -25,7 +25,7 @@ const Experts = () => {
                         key={expert.id}
                         expert={expert}
                     ></Expert>
-                     }
+                    )}
             </div>
 
         </div>
